@@ -12,7 +12,7 @@ A Metholodogy Decide how and when it need to happen,
 
 1. Traditional ( predictive ) ( Waterfall )
     - Plan Everything First , then execute in strict order
-2. Iteration ( risk-driven ) - Not a Method
+2. Iteration ( risk-driven ) - ( Same as agile , but risk driven )
     - Repeat Cycles , attaking the biggest risk first
 1. Agile ( adaptive ) ( Cyclic Method )
     - Deliver small peices fast and adjust from feedback
