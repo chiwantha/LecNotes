@@ -28,3 +28,28 @@ Waterfall Method
     - user acceptance testing
 6. Fix any issues
 7. Deliver the Product
+
+--------------------------------------------------------------
+Paralal Dev Metholodogy
+--------------------------------------------------------------
+Devide the project in to sub projects that ca be worked on same time
+it'll reduce the whole project length
+
+------------    ------------    ----------
+| planing  | 
+------------
+| Analysis | 
+------------
+| Design   |  
+------------
+| | split in to 3 parts
+------------    -------------------
+| Design   | => |  Implementation |===\
+------------    -------------------    \
+------------    -------------------     \    ----------------------    -------------
+| Design   | => |  Implementation |=====|====|    Implementation  | => |  System   |
+------------    -------------------     /    ----------------------    -------------
+------------    -------------------    /
+| Design   | => |  Implementation |===/
+------------    -------------------
+
