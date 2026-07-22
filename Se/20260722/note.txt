@@ -42,14 +42,29 @@ it'll reduce the whole project length
 ------------
 | Design   |  
 ------------
-| | split in to 3 parts
+| | split in to 3 parts | |
 ------------    -------------------
 | Design   | => |  Implementation |===\
 ------------    -------------------    \
 ------------    -------------------     \    ----------------------    -------------
-| Design   | => |  Implementation |=====|====|    Implementation  | => |  System   |
+| Design   | => |  Implementation |======|====|    Implementation  | => |  System   |
 ------------    -------------------     /    ----------------------    -------------
 ------------    -------------------    /
 | Design   | => |  Implementation |===/
 ------------    -------------------
 
+
+--------------------------------------------------------------
+Iorn Trangle | Triple Constraint
+--------------------------------------------------------------
+
+                   Scope
+                    /\
+                   /  \
+                  /    \
+        Schedule /------\  Cost
+
+- scope creep happens when you cannot control the, 
+    * additional features
+    * tasks
+  that leads to imbalance of the iorn trangle.
