@@ -1,0 +1,60 @@
+1. When going to a Doctor, we can identify the following objects:
+    Objects:
+        - Fever Patient      - BP Monitor
+        - Dentist            - Stethoscope
+        - Head Nurse         - Admission Document
+        - Medical Masks
+        - Detol Hand Sanitizer
+    Class:
+        - Doctor
+        - Nurse
+        - Masks
+        - Sanitizer
+        - Medical Equipment
+
+2. When Ordering Food via a App,
+    Objects:
+        - Food Item            - Male Delivery Person
+        - Pizza Hut            - Cheese Pizza Order Receipt
+        - Female Customer
+    Class:
+        - Food
+        - Delivery Person
+        - Restaurant
+        - Customer
+
+3. University Case From Lecture Slide
+    Structure of a Class,
+        -----------------     
+        | Identity      |
+        -----------------
+        | Data          |
+        -----------------
+        | Methods       |
+        -----------------
+        
+    For Professor Class
+        -----------------      -------------------------
+        | Identity      |      | Professor             | 
+        -----------------      -------------------------
+        | Data          |      | Name                  |
+        -----------------      | Age                   |
+        | Methods       |      | Gender                |
+        -----------------      -------------------------
+                               | teach()               |
+                               | askQuestion()         |
+                               | reply                 |
+                               -------------------------
+    
+    For Course Class
+        -----------------      -------------------------
+        | Identity      |      | Course                | 
+        -----------------      -------------------------
+        | Data          |      | id                    |
+        -----------------      | Name                  |
+        | Methods       |      | Teacher               |
+        -----------------      -------------------------
+                               | getLessons()          |
+                               | streamLessons()       |
+                               | calNumOfLessons()     |
+                               -------------------------

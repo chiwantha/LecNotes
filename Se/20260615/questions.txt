@@ -1,0 +1,12 @@
+1. Identify why spotify exsists ?
+- Back in the day we didnt had and way to stream music online, we had to download it and store it on our devices.
+This was a problem because it took up a lot of space and we couldnt access our music from anywhere.
+Spotify was created to solve this problem by allowing users to stream music online without having to download it.
+
+2. Who are the target audience ?
+- artists and students or anyone that listnt to music or podcasts or willing to stream audio files
+
+3. As a dev team if youre building this application waht are the initial things youll need to design it ?
+- identify the problem and the deliverbles
+- project enviroment ( resources, budget, time-period )
+- project design and the professionl+s that carry the relevent skillset 

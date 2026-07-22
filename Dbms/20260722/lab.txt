@@ -1,0 +1,23 @@
+Make a Sql Table on MSSQL
+
+1 Step
+Create Table Query is 
+    * CREATE TABLE your_table_name ( your_column_name data_type, your_column_name data_type, etc...  );
+2 Step
+Insert Data to Table Query is 
+    * INSERT INTO your_table_name (values_here)- values should be a tuple
+3 Step
+Select Data From Table
+    - Select All Columns
+        * SELECT * FROM your_table_name;
+    - Select Unique Data ( eg : You want to search all uniques names from a table)
+        * SELECT distinct student_name(your_column_name) FROM students(your_table_name);
+    - Select Specific Column/s
+        * SELECT your_column_1, your_column_2 FROM your_table_name;
+    - Select Specific Data ( eg : A Student Name From Id )
+        * SELECT student_name(your_column_name) FROM students(your_table_name) WHERE student_id='your_student_id';
+4 Step
+Update table Data
+    - eg : Your Want to Change Student Name 'Kasun' To 'Kusum'.
+        * UPDATE TABLE your_table_name SET student_name='Kusum'(your_new_value) WHERE name='Kasun'(your_old_value) 
+ 

@@ -1,0 +1,76 @@
+Intro to OOP (Object-Oriented Programming)
+
+What is a Object?
+1. tangible.
+2. roles.
+3. interaction.
+4. specification.
+
+Lets identify a object in real life.
+1. Who am i ?
+2. What do i Know ?
+3. What can i do ?
+
+* as example, a car is an object.
+    - we can count the number of cars.
+    - car has a specification, it has a color, model, engine type, etc.
+    - it has roles, it can be used for transportation, racing, etc.
+    - it has interaction, it can be driven, parked, maintained, etc.
+
+Object share same ptoperties, 
+    - Data,
+    - Methods,
+    - Identity,
+
+as a Structure,
+------------------         -------------------
+|  Identity      |         | SmartWatch      |
+------------------         -------------------
+|  Data          |         | Color: Black    |
+------------------         | Model: XYZ      |
+|  Methods       |         | BatteryLife: 24h|
+------------------         -------------------
+                           | setAlarm()      |
+                           | getTime()       |
+                           | connectToPhone()|
+                           -------------------
+
+ANd What is a Class?
+1. A class is a blueprint or template for creating objects.
+2. Class is like a customer data type.
+
+as example,
+-------------------         -------------------
+| Car - template  |   ===>  | Bmw i8 - object |
+-------------------         -------------------
+so bmw i8 is a intance of the class Car. It has its own identity, data, and methods.
+
+Class vs Object,
+-----------------------------------------------------------------------------------------------
+| Class is writtern by the programmer          |  Object is create y the programme by it self |
+|                                              |  using the class and template                |
+-----------------------------------------------------------------------------------------------
+
+Opject oriented concepts
+    There are 4,
+        1 Abstraction
+            - Only providing the essencial features without all background data
+            * for ride-app we only see the BOOK-NOW button , but all geps and matching and other function behind it
+        2 Encapsulation
+            - It is a machanism that dont allow us to use all arributs but use it with methods ( like protect )
+            * in bank system public users can see the name and account no , but to acces the balanc eand stuff need to use deposite like functions
+        3 Inheritance
+            - inherit new classes with features of other clsses
+            * like we have vehical class , and we create car class ( we can inherit car class from vehical class )
+            * like in stream app we ahve premium account and normal account
+                - Account
+                    * FreeAccount
+                        1. playTime()
+                        2. loadAds()
+                    * PremiumAccount
+                        1. IncreasePlayTime()
+                        2. OfflinePlay()
+        4 Polimorphism
+            - only focus about method
+            - you gonn have one method, but way of doing things is different
+            * like we calle sendMessage() method , but sending method is different due to attrbutes or whatever 

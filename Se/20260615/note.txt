@@ -1,0 +1,39 @@
+What is a Project ,
+----------------------------
+Project is 
+    - sequence of tasks witch are carefully planned from begining to end
+    - boundry by time, recources and required results
+
+has a defined outcome and deliverbles
+has a predefined deadline
+has a predefined budget
+conducted by a team of prefessionals
+
+software development cycle
+
+Planing -> Analysis -> Design -> Implementation -> Testing
+
+------------------------------------
+
+Legal And Schdule feasibility
+1. Legal
+    - Are there any parental concerns ?
+    - Comply with data protection laws ?
+    - Restrictions to copyright issues ?
+    - Software Lisencing and propoty rights ?
+    - Industry regulations - finance , health, edication
+2. Schdule
+    - is the deadline realistic for the scope of work
+    - are key people and suppliers avalable when needed ?
+    - can the timeline be fixed ?
+
+-------------------------------------
+
+Design Phase
+- Design How to build the system
+- Create system requirments taht decribe all technical details for building the system
+- system requirment specification
+    - final deliverable from design Phase
+    - conveys exactly waht system the development team will implemebt during the implimentation Phase
+
+

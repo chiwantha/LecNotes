@@ -1,0 +1,18 @@
+About Java ,
+
+1. Java is Case Sensitive.
+2. Java is Object Oriented.
+3. Java is Platform Independent and can run on any operating system with a Java Virtual Machine (JVM).
+4. After we compile the Java code, it is converted into bytecode which can be executed by the JVM.
+5. We Need to install JDK (Java Development Kit) to compile and run Java programs.
+6. Java Have no Pointers.
+7. Java is both compiled and interpreted language (hybrid).
+        interpreted means - it runs line by line.
+        compiled means - it is converted full code into bytecode in once which can be executed by JVM.
+8. We use 'javac' command to compile the Java code and 'java' command to run the Java program.
+        eg : javac HelloWorld.java
+             java HelloWorld
+9. Java is Robust and Secure language.
+        we cannot make virus with java because, we dont have full control over the system, we run it with JVM.
+10. Java is Multithreaded language.
+        we can run multiple threads at the same time.
