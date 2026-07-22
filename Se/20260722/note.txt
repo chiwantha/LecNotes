@@ -1,0 +1,14 @@
+What is a Software Development Metholodogy
+-------------------------------------------
+Metholodogy is a agreed way of organising tbe work of building software , the orders of activities,
+the roles , the documents and the rules for handling changes
+
+SDLC tells us whats must happens,
+A Metholodogy Decide how and when it need to happen,
+
+1. Traditional
+    - Plan Everything First , then execute in strict order
+2. Iterative
+    - Repeat Cycles , attaking the biggest rist first
+1. Agile
+    - Deliver small peices fast and adjust from feedback
