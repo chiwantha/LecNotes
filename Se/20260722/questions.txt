@@ -7,3 +7,9 @@
         * Cannot Change Design
         * Client can be unhappy with the product
         * Cannot Skip Sptes ( like cannot design without full gather info )
+
+2. How spiral development will help in project delivary and how itll improve the SDLC
+    - unlike the other methods its not sequencial or not depending on other steps, 
+    waht happens is we identyfy the areas of the project and we start delpment as modules and also
+    we keep improving them alongside with others and , ill help to make the usable project or 
+    system in lower time period

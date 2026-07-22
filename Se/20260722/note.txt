@@ -68,3 +68,7 @@ Iorn Trangle | Triple Constraint
     * additional features
     * tasks
   that leads to imbalance of the iorn trangle.
+
+--------------------------------------------------------------
+Spiral Development Metholodogy
+--------------------------------------------------------------
