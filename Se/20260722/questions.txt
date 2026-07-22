@@ -1,0 +1,9 @@
+1. Writedown 2 pros and cons of warefall metholodogy
+    - pros
+        * Clear Map
+        * Easy Execution
+        * Easily Schduled
+    - cons
+        * Cannot Change Design
+        * Client can be unhappy with the product
+        * Cannot Skip Sptes ( like cannot design without full gather info )
