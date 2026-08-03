@@ -21,6 +21,7 @@ special operators
     int a = 5;
     a /= 5; // a = a / 5
 
+
 Very Special operators
 -----------------------
 we dont use thrse on normal business applications, but in like IOT projects etc....
@@ -49,3 +50,7 @@ we dont use thrse on normal business applications, but in like IOT projects etc.
 7 >>> (Unsigned right shift operator)
     int a = -5; // 11111111 11111111 11111111 11111011
     int b = a >>> 1; // b = 2147483645 (01111111 11111111 11111111 1111101)
+
+===============================================
+we have some special math function in java
+===============================================
