@@ -26,3 +26,13 @@
     5. m = ++j+i
         m = 7
 
+4. Findout
+    1. << (Left shift operator)
+        int a = 5; // 0101
+        int b = a << 1; // b = 10 (1010)
+    2 >> (Right shift operator)
+        int a = 5; // 0101
+        int b = a >> 1; // b = 2 (0010)
+    3 >>> (Unsigned right shift operator)
+        int a = -5; // 11111111 11111111 11111111 11111011
+        int b = a >>> 1; // b = 2147483645 (01111111 11111111 11111111 1111101)
