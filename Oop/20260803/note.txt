@@ -1,0 +1,23 @@
+Operators
+=======================
+
+          /--Static = class
+Symbols -|---variable = instance
+          \--local = local variable
+
+
+special operators
+-----------------
+1.+=
+    int a = 5;
+    a += 5; // a = a + 5
+2. -=
+    int a = 5;
+    a -= 5; // a = a - 5
+3. *=
+    int a = 5;
+    a *= 5; // a = a * 5
+4. /=
+    int a = 5;
+    a /= 5; // a = a / 5
+    

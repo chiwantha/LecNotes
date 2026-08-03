@@ -1,0 +1,28 @@
+1. Assum x=2 , and y = 6 and z=3, specify wether its true of false
+    (x>2) && (y>z) = False
+    (x <= 5) || (y>2) || (z == 6) = True
+    (x == 2) = True
+    (x == 3) || (( y > 5) && ( z> 2)) = True
+
+2. int x = 5 ,x+=3, x-=2,x*=3,x/=2,x%=3 , value of x after each operation: 
+   x = 5
+   x += 3;
+   x -= 2;
+   x *= 3;
+   x /= 2;
+   x %= 3;
+   final value of x = 0
+
+3. Wtrite the final answers
+    int i = 3, j= 4, k = 5, l = 0, m=0;
+    1. m = i++
+    m = 3
+    2. l = j--
+    l = 4
+    3. m = ++k%--j
+    m = 2
+    4. l = j++*--i
+    l = 12
+    5. m = ++j+i
+    m = 8
+        
