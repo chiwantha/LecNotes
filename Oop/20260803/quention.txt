@@ -16,13 +16,13 @@
 3. Wtrite the final answers
     int i = 3, j= 4, k = 5, l = 0, m=0;
     1. m = i++
-    m = 3
+        m = 3
     2. l = j--
-    l = 4
-    3. m = ++k%--j
-    m = 2
+        l = 4
+    3. m = ++k % --j
+        m = 0
     4. l = j++*--i
-    l = 12
+        l = 6
     5. m = ++j+i
-    m = 8
-        
+        m = 7
+
