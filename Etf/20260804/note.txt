@@ -58,3 +58,18 @@ A - Actuators
 S - Sensors
     - Tools agent use to perceive the environment
 
+===========================================
+AI Stages
+===========================================
+REACTIVE AI
+    - Like LLM , Responds to inputs without memory of past events.
+AGENTIC AI
+    - Uses memory and reasoning to make decisions based on past experiences.
+MULTI-AGENT AI
+    - Involves multiple agents interacting and collaborating to achieve goals, often in complex environments.
+AGI
+    - Artificial General Intelligence, capable of understanding, learning,
+    and applying knowledge across a wide range of tasks, similar to human intelligence.
+SUPER-INTELLIGENCE
+    - A hypothetical form of AI that surpasses human intelligence in all aspects,
+    including creativity, problem-solving, and social intelligence.
