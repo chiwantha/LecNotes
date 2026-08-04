@@ -34,9 +34,27 @@ AI, or Artificial Intelligence, refers to the simulation of human intelligence i
 
     4. Think Rationally
         simple meaning is think the correct way to achieve the goal.
-        - Logic: The study of reasoning and argumentation, which helps in developing algorithms and models for AI systems.
-        - Reasoning: The process of drawing conclusions from available information, which is essential for decision-making in AI.
             * Inductive Reasoning: A method of reasoning in which generalizations are made based on specific observations or examples, 
               often used in machine learning to identify patterns and make predictions.
             * Deductive Reasoning: A method of reasoning in which conclusions are drawn from general principles or premises,
               often used in rule-based AI systems to derive specific outcomes from established rules.
+
+===========================================
+IN inteligant ststems , we have 3 agents
+===========================================
+    human agent
+    software agent
+    robots
+
+===========================================
+PEAS / Task Environment
+===========================================
+p - Performance Measure
+    - How Success is Evaluated 
+E - Environment
+    - The external context in which the agent operates.
+A - Actuators
+    - Tools agent use to act
+S - Sensors
+    - Tools agent use to perceive the environment
+

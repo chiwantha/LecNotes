@@ -1,0 +1,17 @@
+As for a self driving car
+P - Performance Measure: Safety, efficiency, passenger comfort, adherence to traffic laws.
+E - Environment: Roads, traffic, weather conditions, pedestrians, other vehicles.
+A - Actuators: Steering wheel, accelerator, brakes, indicators, horn.
+S - Sensors: Cameras, LiDAR, radar, GPS, ultrasonic sensors.
+
+As for Vacum Cleaner
+P - Performance Measure: Cleanliness of the area, battery life, time taken to clean,
+E - Environment: Floor surfaces, furniture, obstacles, dirt and debris.
+A - Actuators: Wheels, brushes, suction mechanism, dustbin.
+S - Sensors: Infrared sensors, bump sensors, cliff sensors, dirt detection sensors, gyroscope, accelerometer.
+
+As for Part Picking Robot
+P - Performance Measure: Accuracy of picking, speed of operation, safety in handling parts.
+E - Environment: Factory floor, conveyor belts, storage areas, parts to be picked.
+A - Actuators: Robotic arm, grippers, wheels.
+S - Sensors: Cameras, proximity sensors, force sensors, encoders, vision systems.
