@@ -1,0 +1,42 @@
+What is intelligence?
+================================
+Intelligence means a system or ability to acquire and apply knowledge and skills.
+It can also refer to the capacity for learning, reasoning, understanding, and problem-solving.
+
+characteristics
+    Perception
+    Action
+    Reasoning
+    Learning
+    Communication
+    Planning
+
+what is ai?
+================================
+AI, or Artificial Intelligence, refers to the simulation of human intelligence in machines that are programmed to think and learn like humans. It encompasses a variety of technologies and methods that enable machines to perform tasks that typically require human intelligence, such as visual perception, speech recognition, decision-making, and language translation.
+    1. Acting Humanly
+        - Turing Test ( Alan Turing, 1950 )
+            * A test to determine whether a machine can exhibit intelligent behavior indistinguishable from that of a human.
+    
+    2. Thinking Humanly
+        - How Human Think ?
+            Introspection: The process of examining one's own thoughts and feelings.
+            Psychology: The scientific study of the mind and behavior, which helps in understanding how humans think and learn.
+            Brain imaging: observing brain activities.
+
+        - Cognitive Science: An interdisciplinary field that studies the mind and its processes, including 
+          how humans think, learn, and remember.
+    
+    3. Act Rationally
+        simple meaning is act the correct way to achieve the goal.
+        - Rational Agent: An entity that perceives its environment and takes actions to maximize its chances of achieving its goals.
+        - Rationality: The quality of being based on or in accordance with reason or logic.
+
+    4. Think Rationally
+        simple meaning is think the correct way to achieve the goal.
+        - Logic: The study of reasoning and argumentation, which helps in developing algorithms and models for AI systems.
+        - Reasoning: The process of drawing conclusions from available information, which is essential for decision-making in AI.
+            * Inductive Reasoning: A method of reasoning in which generalizations are made based on specific observations or examples, 
+              often used in machine learning to identify patterns and make predictions.
+            * Deductive Reasoning: A method of reasoning in which conclusions are drawn from general principles or premises,
+              often used in rule-based AI systems to derive specific outcomes from established rules.
