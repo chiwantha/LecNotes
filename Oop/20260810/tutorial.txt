@@ -1,0 +1,133 @@
+if (grade.equals("A")) {
+
+    System.out.println("Excellent!");
+
+} else if (grade.equals("B")) {
+
+    System.out.println("Good!");
+
+} else if (grade.equalsIgnoreCase("C")) {
+
+    System.out.println("OK");
+
+} else {
+
+    System.out.println("Needs Improvement!");
+
+}
+
+
+===============
+
+
+switch (Digit) {
+    case 6:
+        value = 'A';
+        break;
+
+    case 0:
+    case 1:
+    case 2:
+        value = 'C';
+        break;
+
+    case 4:
+    case 5:
+        value = 'B';
+        break;
+
+    default:
+        value = 'D';
+        break;
+}
+
+
+================
+
+import java.util.Scanner;
+
+public class DivisibleCheck {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter Number 1: ");
+        int n1= input.nextInt();
+
+        System.out.print("Enter Number 2: ");
+        int n2= input.nextInt();
+
+        if (n1 % n2== 0) {
+            System.out.println(n1+ " is divisible by " + n2);
+        } else {
+            System.out.println(n1+ " is not divisible by " + n2);
+        }
+    }
+}
+
+
+=================
+
+
+import java.util.Scanner;
+
+public class DayOfWeek {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter week number (1-7): ");
+        int week = input.nextInt();
+
+        switch (week) {
+            case 1:
+                System.out.println("Monday");
+                break;
+            case 2:
+                System.out.println("Tuesday");
+                break;
+            case 3:
+                System.out.println("Wednesday");
+                break;
+            case 4:
+                System.out.println("Thursday");
+                break;
+            case 5:
+                System.out.println("Friday");
+                break;
+            case 6:
+                System.out.println("Saturday");
+                break;
+            case 7:
+                System.out.println("Sunday");
+                break;
+            default:
+                System.out.println("Invalid week number");
+        }
+    }
+}
+
+
+
+=============
+
+
+import java.util.Scanner;
+
+public class AlphabeticalOrder {
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+
+        System.out.print("Enter first word: ");
+        String word1 = input.next();
+
+        System.out.print("Enter second word: ");
+        String word2 = input.next();
+
+        if (word1.compareTo(word2) < 0) {
+            System.out.println(word1);
+            System.out.println(word2);
+        } else {
+            System.out.println(word2);
+            System.out.println(word1);
+        }
+    }
+}
