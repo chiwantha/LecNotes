@@ -48,5 +48,16 @@ there are 2 loops variaties
     1. entry control loop
         while
         for
-    1. exit control loop
+    2. exit control loop
         do-while
+    
+    we can use labels in loops , like to control how the loops flows
+    - eg :-
+
+    outer:
+    for (condition) {
+        inner:
+        for (condition) {
+            continue outer;
+        }
+    }
