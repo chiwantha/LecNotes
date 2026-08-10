@@ -1,0 +1,52 @@
+memory types in java
+    1. stack memory
+    2. heap memory
+
+we dont have goto syntax in java like c++;
+
+control flow statements in java ,
+    Decision making statements:
+        1. if statement
+        2. switch statement
+    
+    Loops:
+        1. for loop
+        2. while loop
+        3. do-while loop
+        4. enhanced for loop (for-each loop)
+            - 
+    
+    Branching statements:
+        1. break statement
+        2. continue statement
+        3. return statement
+
+1 . If else
+    - you can use only if without else but you cannot use else without if
+    - if we only have one statement , we dont need to use curly braces
+
+2. Comparing
+    - we use equals() method in java to compare,
+    - we use == operator to compare primitive data types
+    eg :- 
+        String s1 = "hello";
+        String s2 = "hello";
+        if(s1.equals(s2)){
+            System.out.println("Both strings are equal");
+        }
+
+    - we also use compare() method to compare two strings lexicographically.
+    string s1 = "hello";
+    string s2 = "world";
+
+to validate inputs , 
+    string  - .hasNext();
+    int - .hasNextInt();
+    double - .hasNextDouble();
+
+there are 2 loops variaties 
+    1. entry control loop
+        while
+        for
+    1. exit control loop
+        do-while
