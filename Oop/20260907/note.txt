@@ -1,0 +1,71 @@
+==================================
+Start of OOP concepts:
+==================================
+
+from now on we use object oriended concepts in out programme , 
+for that insted of vs code we use intelliJ idea as our IDE for better support of OOP concepts.
+
+why we use it ? 
+    * from now on we dont goint to worn on single ex.java file , we will have more java.file
+    * we cannot use javac form compolie them one by one in vs code ,
+    * but in intelliJ idea we have more tools like maven and stuff to complith them all together,
+    and make a file called jar file which we can run in any machine with java installed.
+
+=================================
+
+In interllij we can create a project by giving 
+    a name = artifactId
+    a group name = groupId ( eg : com.example )
+    a version number = version ( eg : 1.0.0 )
+
+after, we write out code in src folder
+to change the name and group name we can change it in pom.xml file which is in the root folder of our project. 
+
+==============================
+
+we use MVC architecture in our project which is a design pattern to separate the data, business logic and user interface of our application.
+    M = Model ( eg : data class taht contains data and business logic and comiunicate with database )
+    V = View ( eg : user interface that displays data to the user and takes input from the user )
+    C = Controller ( eg : handles user input and updates the model and view )
+    
+    |=======================|     |=======================|     |=======================|
+    |          View         | <=> |       Controller      | <=> |          Model        |
+    |=======================|     |=======================|     |=======================|
+
+===============================
+
+as an example lets create a class called rectangle
+    * we create that class in model because it contains data.
+
+in a class there are 3 things 
+    * identity
+    * data
+    * methods
+
+public class Rectangle {
+    // data
+    int length;
+    int width;
+
+    // constructor
+    public Rectangle(int length, int width) {
+        this.length = length;
+        this.width = width;
+    }
+
+    // methods
+    public int area() {
+        return length * width;
+    }
+
+    public int perimeter() {
+        return 2 * (length + width);
+    }
+
+    public void displayData() {
+        System.out.println("Length: " + length);
+        System.out.println("width: " + width);
+    }
+}
+
+===============================
